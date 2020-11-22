@@ -28,15 +28,15 @@ Dataset was taken from an unpublished master's paper in civil engineering by Car
 This data was pulled from StatLib (\url{http://lib.stat.cmu.edu/datasets/alr}) under the name \code{alr206}.
 Column descriptions from Weisberg (1985).
 
-Weisberg, Sanford. "Simple linear regression." Applied Linear Regression (1985)
+Weisberg, Sanford. (1985). Applied linear regression. New York: Wiley.
 }
 \usage{
 accidents
 }
 \description{
-description
+ADD CAR ACCIDENTS DESCRIPTION
 }
 \note{
-Two of the highway segments, numbers 38 and 39, were neither interstate highways, principal arterial, nor major arterial highways, but were classified as major collectors (MC) and are coded by \code{interstate = principal = major = 0} A separate variable was not used for MC because the resulting data matrix would give an exact collinearity and one of the dummy variables would have to be delete to obtain estimates.
+Two of the highway segments, numbers 38 and 39, were neither interstate highways, principal arterial, nor major arterial highways, but were classified as major collectors (MC) and are coded by \code{interstate = principal = major = 0} A separate variable was not used for MC because the resulting data matrix would give an exact collinearity and one of the dummy variables would have to be deleted to obtain estimates.
 }
 \keyword{datasets}

@@ -25,7 +25,7 @@ This data was pulled from StatLib (\url{http://lib.stat.cmu.edu/datasets/alr}) u
 Column descriptions from Weisberg (1985).
 
 Narula, S. C., & Wellington, J. F. (1977). Prediction, linear regression and the minimum sum of relative errors. Technometrics, 19(2), 185-190.
-Weisberg, Sanford. "Simple linear regression." Applied Linear Regression (1985)
+Weisberg, Sanford. (1985). Applied linear regression. New York: Wiley.
 }
 \usage{
 housing

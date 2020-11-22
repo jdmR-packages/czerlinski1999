@@ -27,7 +27,7 @@ This dataset was pulled from the \code{alr3} package under the name \code{BGSall
 Column descriptions from Weisberg (1985).
 
 Tuddenham, R. D. (1954). Physical growth of California boys and girls from birth to eighteen years. University of California publications in child development, 1, 183-364.
-Weisberg, Sanford. (1985). "Simple linear regression." Applied Linear Regression.
+Weisberg, Sanford. (1985). Applied linear regression. New York: Wiley.
 }
 \usage{
 obesity

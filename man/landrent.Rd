@@ -19,7 +19,7 @@ The data was provided by Douglas Tiffany and reported in Weisberg (1985).
 This data was pulled from StatLib (\url{http://lib.stat.cmu.edu/datasets/alr}) under the name \code{alr162}.
 Column descriptions from Weisberg (1985).
 
-#' Weisberg, Sanford. "Simple linear regression." Applied Linear Regression (1985)
+Weisberg, Sanford. (1985). Applied linear regression. New York: Wiley.
 }
 \usage{
 landrent
